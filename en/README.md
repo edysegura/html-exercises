@@ -4,7 +4,7 @@ A list of exercises to practice HTML.
 
 ## Instrunctions
 
-Basic instrunction came here
+Basic instructions come here.
 
 ## Basic
 
